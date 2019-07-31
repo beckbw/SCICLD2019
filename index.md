@@ -20,8 +20,8 @@ Click [here](docs/instructors.md) for more information about the course instruct
 |  9:00 - 10:15 | [Cloud Concepts](docs/cloud_concepts/cloud_concepts.md) |
 | 10:15 - 10:30 | Break |
 | 10:30 - 11:45 | [Deploying VMs and Volumes in Jetstream](docs/vm_setup/vm_init_cloud.md) |
-| 11:45 - 13:00 | Lunch and Small Group Discussions|
-| 13:00 - 14:15 | [Docker Containers](docs/docker_containers/docker_containers.md) |
+| 11:45 - 13:00 | Lunch |
+| 13:00 - 14:15 | [Introduction to Docker Containers](docs/docker_containers/docker_containers.md) |
 | 14:15 - 14:30 | Break |
 | 14:30 - 16:00 | [Docker Compose](docs/docker_compose/docker_compose.md) |
 
@@ -29,13 +29,29 @@ Click [here](docs/instructors.md) for more information about the course instruct
 
 | Time | Topic |
 |--------|--------------------------------------------------|
-|  9:00 - 10:15 | [Reproducibility](docs/reproducibility/reproducibility.md) |
+|  9:00 - 10:15 | [Reproducibility in Research: Version Control](docs/reproducibility/reproducibility.md) |
 | 10:15 - 10:30 | Break |
 | 10:30 - 11:45 | [Docker in the Cloud](docs/docker_in_cloud/docker_in_cloud.md) |
 | 11:45 - 13:00 | Lunch |
-| 13:00 - 14:15 | [Jupyter](docs/jupyter/jupyter.md) |
+| 13:00 - 14:15 | [Python 101](docs/jupyter/Python101-201%20-%20SIC.pdf)|
+|               | [Power Python](docs/jupyter/Power%20Python%20101%20-%20SIC.pdf)
+|               | [Matplotlib](docs/jupyter/Matplotlib%20-%20SIC.pdf)
+|               | [Numpy 101](docs/jupyter/Numerical%20Python%20-%20SIC.pdf)
 | 14:15 - 14:30 | Break |
-| 14:30 - 16:00 | [Pandas](docs/pandas/pandas.md) |
+| 14:30 - 16:00 | [Pandas](docs/pandas/Pandas%20101%20-%20SIC.pdf) |
+|               | [Data Science Introduction](docs/pandas/DataScience%20101%20-%20SIC.pdf) |
+|               | [Disease Propogation](docs/pandas/Disease%20Propagation%20Model%20-%20SIC.pdf) |
+
+##### Sample Notebooks
+[Pandas101](https://github.com/ancantu/SCICLD2019/blob/master/docs/jupyter/sampleNotebooks/Pandas101.ipynb)  
+[Matplotlib](https://github.com/ancantu/SCICLD2019/blob/master/docs/jupyter/sampleNotebooks/Matplotlib101.ipynb) 
+[Numpy Jacobi](https://github.com/ancantu/SCICLD2019/blob/master/docs/jupyter/sampleNotebooks/JacobiPython.ipynb)   
+[Pandas Example](https://github.com/ancantu/SCICLD2019/blob/master/docs/jupyter/sampleNotebooks/Pandas_RealWorld.ipynb)  
+[Austin Traffic*](https://github.com/ancantu/SCICLD2019/blob/master/docs/jupyter/sampleNotebooks/AustinTrafficAnalysis.ipynb)  
+
+###### Sample Data
+[*Traffic.csv needed for AustinTraffic Notebook](https://github.com/ancantu/SCICLD2019/blob/master/docs/jupyter/sampleNotebooks/traffic.csv)  
+
 
 ### Thursday
 
@@ -53,7 +69,7 @@ Click [here](docs/instructors.md) for more information about the course instruct
 
 | Time | Topic |
 |--------|--------------------------------------------------|
-|  9:00 - 10:15 | [Kubernetes](docs/kubernetes/kubernetes.md) |
+|  9:00 - 10:15 | [Ansible](docs/kubernetes/ansible.md) & [Kubernetes](docs/kubernetes/kubernetes.md) |
 | 10:15 - 10:30 | Break |
 | 10:30 - 11:45 | [TACC as Cloud](docs/tacc_as_cloud/tacc_as_cloud.md) |
 | 11:45 - 13:00 | Lunch |
